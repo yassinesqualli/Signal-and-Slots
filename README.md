@@ -28,7 +28,7 @@
  + [LCDnumber]()
 
  # Calculator
- The gool of this exercice is to complete all the function that we need to simulate a basic calculator behavior
+ The goal of this exercice is to complete all the function that we need to simulate a basic calculator behavior
 
  ## Setup 
   - In this part we will run our application ...  and as we see the application has no reactivity 
