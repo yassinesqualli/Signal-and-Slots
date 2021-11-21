@@ -15,14 +15,14 @@
 
 ## Sections 
 
- + [Calculator]() 
-- [Setup]() 
-- [Custom Slots]() 
-- [Digits Interaction]() 
-- [Integer numbers]() 
-- [Operation Interaction]()
-- [Enter Button]()
-- [Enhancements]()
+ + [Calculator:]() 
+++ [Setup]() 
+++[Custom Slots]() 
+++ [Digits Interaction]() 
+++ [Integer numbers]() 
+++[Operation Interaction]()
+++ [Enter Button]()
+++ [Enhancements]()
 
  + [Traffic Light]()
  + [LCDnumber]()
