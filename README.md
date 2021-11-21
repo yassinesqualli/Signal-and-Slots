@@ -24,7 +24,8 @@
 - [Enter Button]()
 - [Enhancements]()
 
- [Traffic Light]()  
+ [Traffic Light]()
+ [LCDnumber]()
 
  # Calculator
  The gool of this exercice is to complete all the function that we need to simulate a basic calculator behavior
